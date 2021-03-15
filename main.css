@@ -32,11 +32,11 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   background: url('assets/hatter.jpg') no-repeat center;
   background-size: cover;
   color: #333;
-  width: 150%;
+  padding: 100px;
 }
 
 .profile-card {
