@@ -36,6 +36,7 @@ body {
   background: url('assets/hatter.jpg') no-repeat center;
   background-size: cover;
   color: #333;
+  width: 150%;
 }
 
 .profile-card {
